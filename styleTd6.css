@@ -1,0 +1,7 @@
+/* Sélectionnez l'élément h1 et modifiez son style */
+h1 {
+    color: blue; /* change la couleur du texte en bleu */
+    font-size: 2em; /* agrandit la taille de la police */
+    text-align: center; /* centre le texte horizontalement */
+    margin-top: 50px; /* ajoute un espace de 50 pixels au-dessus du titre */
+  }
